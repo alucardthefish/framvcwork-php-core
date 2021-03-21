@@ -1,0 +1,10 @@
+{
+    "name": "alucardthefish/framvcwork-php-core",
+    "authors": [
+        {
+            "name": "Sergio Ortiz Paz",
+            "email": "sergiop18@gmail.com"
+        }
+    ],
+    "require": {}
+}
