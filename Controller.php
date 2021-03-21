@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace alucardthefish\framvcwork;
 
-use app\core\Application;
+use alucardthefish\framvcwork\Application;
 
 class Controller 
 {
@@ -10,7 +10,7 @@ class Controller
     public $layout = 'main';
     public $action = '';
     /**
-     * @var \app\core\middlewares\BaseMiddleware[]
+     * @var \alucardthefish\framvcwork\middlewares\BaseMiddleware[]
      */
     protected $middlewares = [];
 

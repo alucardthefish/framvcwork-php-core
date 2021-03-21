@@ -6,7 +6,7 @@
 # Description:  
 # **************************************************************************** 
 
-namespace app\core;
+namespace alucardthefish\framvcwork;
 
 abstract class Model {
 

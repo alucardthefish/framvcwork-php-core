@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\exception;
+namespace alucardthefish\framvcwork\exception;
 
 
 class ForbiddenException extends \Exception

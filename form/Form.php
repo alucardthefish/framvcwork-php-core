@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\form;
+namespace alucardthefish\framvcwork\form;
 
 class Form {
 

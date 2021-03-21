@@ -6,9 +6,9 @@
 # Description:  
 # **************************************************************************** 
 
-namespace app\core;
+namespace alucardthefish\framvcwork;
 
-use app\core\db\Database;
+use alucardthefish\framvcwork\db\Database;
 
 class Application {
 

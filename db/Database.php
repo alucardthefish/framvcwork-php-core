@@ -6,9 +6,9 @@
 # Description: Class that will be in charge of handle database connection 
 # **************************************************************************** 
 
-namespace app\core\db;
+namespace alucardthefish\framvcwork\db;
 
-use app\core\Application;
+use alucardthefish\framvcwork\Application;
 use PDO;
 
 class Database

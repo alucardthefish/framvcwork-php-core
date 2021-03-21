@@ -6,9 +6,9 @@
 # Description: Router class of our framework 
 # **************************************************************************** 
 
-namespace app\core;
+namespace alucardthefish\framvcwork;
 
-use app\core\exception\NotFoundException;
+use alucardthefish\framvcwork\exception\NotFoundException;
 
 class Router
 {
@@ -49,7 +49,7 @@ class Router
         }
 
         if (is_array($callback)) {
-            /** @var \app\core\Controller $controller */
+            /** @var \alucardthefish\framvcwork\Controller $controller */
             $controller = new $callback[0]();
             Application::$app->controller = $controller;
             $controller->action = $callback[1];

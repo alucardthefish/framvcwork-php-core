@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\middlewares;
+namespace alucardthefish\framvcwork\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use alucardthefish\framvcwork\Application;
+use alucardthefish\framvcwork\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

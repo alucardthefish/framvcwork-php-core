@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace alucardthefish\framvcwork\db;
 
-use app\core\Model;
-use app\core\Application;
+use alucardthefish\framvcwork\Model;
+use alucardthefish\framvcwork\Application;
 
 abstract class DbModel extends Model
 {

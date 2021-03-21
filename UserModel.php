@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace alucardthefish\framvcwork;
 
-use app\core\db\DbModel;
+use alucardthefish\framvcwork\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

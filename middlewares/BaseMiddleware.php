@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\middlewares;
+namespace alucardthefish\framvcwork\middlewares;
 
 
 abstract class BaseMiddleware
