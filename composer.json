@@ -6,5 +6,11 @@
             "email": "sergiop18@gmail.com"
         }
     ],
-    "require": {}
+    "description": "",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "alucardthefish\\framvcwork": "."
+        }
+    }
 }
